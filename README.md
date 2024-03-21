@@ -1,0 +1,1 @@
+This file contains the code for atreamlit a PII masking app. Masking app uses OpenAI Turbo 3.5 turbo API to mask the PII information in the given input text. I have used, zero shot prompting and few shot prompting techniques to mask the PII and to have a comparison amongst the results of two techniques.
